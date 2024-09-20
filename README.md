@@ -44,7 +44,7 @@ Disable bitlocker in windows settings <br>
 
 **SERVER PREPARE ETHERNET DRIVERS**
 - https://www.thomas-krenn.com/de/wiki/Intel_i225-V_und_i226-V_Treiber_in_Windows_Server_2022_installieren <br>
-- [i225 i226.zip](https://github.com/fr33thytweaks/Server-Enterprise-Install-Guide/raw/main/i225%20i226.zip)
+- [i225 i226.zip](https://github.com/fr33thyfr33thy/Server-Enterprise-Install-Guide/raw/main/i225%20i226.zip)
 - Some ethernet cards wont work on server such as "i225-V, i226-V"
 Download the latest driver for your ethernet card, extract it <br>
 Edit "e2f.inf" in notepad <br>
@@ -95,7 +95,7 @@ Restart
 
 **LTSC CONVERT EVAL TO NORMAL EDITION**
 - https://github.com/victorlish/Convert_to_Windows_10_LTSC <br> <br>
-- [Convert LTSC Eval.zip](https://github.com/fr33thytweaks/Server-Enterprise-Install-Guide/raw/main/Convert%20LTSC%20Eval.zip) <br>
+- [Convert LTSC Eval.zip](https://github.com/fr33thyfr33thy/Server-Enterprise-Install-Guide/raw/main/Convert%20LTSC%20Eval.zip) <br>
 Extract <br>
 Run "run.bat" as admin
 
@@ -121,8 +121,8 @@ Install in device manager
 Install in device manager
 
 **XBOX CONTROLLER/DS4 NOT WORKING**
-- [ViGEmBus Driver.zip](https://github.com/fr33thytweaks/Server-Enterprise-Install-Guide/raw/main/ViGEmBus%20Driver.zip) <br>
-[Xbox Driver.zip](https://github.com/fr33thytweaks/Server-Enterprise-Install-Guide/raw/main/Xbox%20Driver.zip)
+- [ViGEmBus Driver.zip](https://github.com/fr33thyfr33thy/Server-Enterprise-Install-Guide/raw/main/ViGEmBus%20Driver.zip) <br>
+[Xbox Driver.zip](https://github.com/fr33thyfr33thy/Server-Enterprise-Install-Guide/raw/main/Xbox%20Driver.zip)
 
 **OTHER DRIVERS**
 - Snappy Driver Installer Origin <br>
